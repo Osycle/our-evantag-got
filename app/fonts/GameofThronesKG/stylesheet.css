@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Game of Thrones KG';
+    src: url('GameofThronesKG.woff2') format('woff2'),
+        url('GameofThronesKG.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
